@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-cirru_edn-v0_4_9.flake = false;
+  inputs.src-cirru_edn-v0_4_9.ref   = "refs/tags/v0.4.9";
   inputs.src-cirru_edn-v0_4_9.owner = "Cirru";
-  inputs.src-cirru_edn-v0_4_9.ref   = "v0_4_9";
   inputs.src-cirru_edn-v0_4_9.repo  = "cirru-edn.nim";
   inputs.src-cirru_edn-v0_4_9.type  = "github";
   
