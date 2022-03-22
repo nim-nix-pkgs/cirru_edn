@@ -9,7 +9,7 @@
   
   inputs.src-cirru_edn-v0_1_6.flake = false;
   inputs.src-cirru_edn-v0_1_6.owner = "Cirru";
-  inputs.src-cirru_edn-v0_1_6.ref   = "refs/tags/v0.1.6";
+  inputs.src-cirru_edn-v0_1_6.ref   = "v0_1_6";
   inputs.src-cirru_edn-v0_1_6.repo  = "cirru-edn.nim";
   inputs.src-cirru_edn-v0_1_6.type  = "github";
   
