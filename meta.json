@@ -4,7 +4,7 @@
   "method": "git",
   "tags": [
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.0",
@@ -12,7 +12,7 @@
       "version": "v0_1_0"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.1",
@@ -20,7 +20,7 @@
       "version": "v0_1_1"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.10",
@@ -28,7 +28,7 @@
       "version": "v0_1_10"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.11",
@@ -36,7 +36,7 @@
       "version": "v0_1_11"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.2",
@@ -44,7 +44,7 @@
       "version": "v0_1_2"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.4",
@@ -52,7 +52,7 @@
       "version": "v0_1_4"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.5",
@@ -60,7 +60,7 @@
       "version": "v0_1_5"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.6",
@@ -68,7 +68,7 @@
       "version": "v0_1_6"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.7",
@@ -76,7 +76,7 @@
       "version": "v0_1_7"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.8",
@@ -84,7 +84,7 @@
       "version": "v0_1_8"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.1.9",
@@ -92,7 +92,7 @@
       "version": "v0_1_9"
     },
     {
-      "desc": "Extensible data notation based on Cirru syntax",
+      "description": "Extensible data notation based on Cirru syntax",
       "license": "MIT",
       "name": "cirru_edn",
       "ref": "refs/tags/v0.2.0",
