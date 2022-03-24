@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1648107359,
-        "narHash": "sha256-QJmKlARMxngZhZBRd5oEsCifsM4WCXdhHZeweW2FS/c=",
+        "lastModified": 1648162984,
+        "narHash": "sha256-mKFrpKFVgxsW9j/S6xJD+bvK9jwoT0ceExrYB68g3cI=",
         "owner": "nim-nix-pkgs",
         "repo": "cirru_parser",
-        "rev": "f21b9a96d659c9c1f9941a6a135a5a3382bba4eb",
+        "rev": "32a157f1cb361daf9142c74516db54326e011595",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "v0_1_4",
-        "lastModified": 1648107359,
-        "narHash": "sha256-7KxY6DcNbmQsgz7qZt7Ey5iHAQ30hP15KOOGKenqz98=",
+        "lastModified": 1648162986,
+        "narHash": "sha256-oI50ceZEuSOTaBas7anZjIomggpAhWvxjboT4KZwefg=",
         "owner": "nim-nix-pkgs",
         "repo": "cirru_writer",
-        "rev": "e97b15706876104bfb6afdaa8370ab3c54cec1d6",
+        "rev": "71c75811c15abbfe3f226f238d360c8aca9d9219",
         "type": "github"
       },
       "original": {
