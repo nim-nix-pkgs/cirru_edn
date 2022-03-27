@@ -11,6 +11,7 @@
   inputs.src-cirruEdn-v0_1_5.ref   = "refs/tags/v0.1.5";
   inputs.src-cirruEdn-v0_1_5.owner = "Cirru";
   inputs.src-cirruEdn-v0_1_5.repo  = "cirru-edn.nim";
+  inputs.src-cirruEdn-v0_1_5.dir   = "";
   inputs.src-cirruEdn-v0_1_5.type  = "github";
   
   inputs."cirru-parser".owner = "nim-nix-pkgs";
