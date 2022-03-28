@@ -11,7 +11,6 @@
   inputs.src-cirru_edn-v0_3_6.ref   = "refs/tags/v0.3.6";
   inputs.src-cirru_edn-v0_3_6.owner = "Cirru";
   inputs.src-cirru_edn-v0_3_6.repo  = "cirru-edn.nim";
-  inputs.src-cirru_edn-v0_3_6.dir   = "";
   inputs.src-cirru_edn-v0_3_6.type  = "github";
   
   inputs."cirru_parser".owner = "nim-nix-pkgs";
@@ -21,6 +20,14 @@
   inputs."cirru_parser".type  = "github";
   inputs."cirru_parser".inputs.nixpkgs.follows = "nixpkgs";
   inputs."cirru_parser".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
+  inputs."cirru_writer".owner = "nim-nix-pkgs";
+  inputs."cirru_writer".ref   = "master";
+  inputs."cirru_writer".repo  = "cirru_writer";
+  inputs."cirru_writer".dir   = "v0_1_4";
+  inputs."cirru_writer".type  = "github";
+  inputs."cirru_writer".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."cirru_writer".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 

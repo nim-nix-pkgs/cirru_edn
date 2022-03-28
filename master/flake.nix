@@ -11,7 +11,6 @@
   inputs.src-cirru_edn-master.ref   = "refs/heads/master";
   inputs.src-cirru_edn-master.owner = "Cirru";
   inputs.src-cirru_edn-master.repo  = "cirru-edn.nim";
-  inputs.src-cirru_edn-master.dir   = "";
   inputs.src-cirru_edn-master.type  = "github";
   
   inputs."cirru_parser".owner = "nim-nix-pkgs";
